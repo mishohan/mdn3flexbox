@@ -1,0 +1,17 @@
+.box{
+    height: 300px;
+    border: 2px dotted rgb(18, 198, 171, 30%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+
+}
+
+.box div{
+    border: 2px solid rgb(96, 139, 168);
+    border-radius: 5px;
+    background-color: rgb(96, 139, 168, 20%);
+    height: 100px;
+    width: 100px;
+}
